@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\matric+funksion\matric+funksion\bin\Debug\net8.0\matric+funksion.exe
+C:\Users\User\source\repos\matric+funksion\matric+funksion\bin\Debug\net8.0\matric+funksion.deps.json
+C:\Users\User\source\repos\matric+funksion\matric+funksion\bin\Debug\net8.0\matric+funksion.runtimeconfig.json
+C:\Users\User\source\repos\matric+funksion\matric+funksion\bin\Debug\net8.0\matric+funksion.dll
+C:\Users\User\source\repos\matric+funksion\matric+funksion\bin\Debug\net8.0\matric+funksion.pdb
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.AssemblyInfo.cs
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.dll
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\refint\matric+funksion.dll
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.pdb
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\matric+funksion.genruntimeconfig.cache
+C:\Users\User\source\repos\matric+funksion\matric+funksion\obj\Debug\net8.0\ref\matric+funksion.dll
