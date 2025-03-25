@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\bin\Debug\ANIMO_design form.exe.config
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\bin\Debug\ANIMO_design form.exe
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\bin\Debug\ANIMO_design form.pdb
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design form.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design_form.Form1.resources
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design_form.Properties.Resources.resources
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design form.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design form.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design form.exe
+C:\Users\User\source\repos\ANIMO_design form\ANIMO_design form\obj\Debug\ANIMO_design form.pdb
